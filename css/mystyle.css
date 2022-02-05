@@ -1,3 +1,8 @@
-.vh-50 {
-    height: 50vh;
-  }
+@media (min-width: 0px) and (max-width: 767px) {
+
+    .home-text {
+        padding-top: 50px;
+        text-align: center;
+    }
+
+}
