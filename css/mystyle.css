@@ -1,3 +1,7 @@
+.my_progresion {
+    margin-left: 13%;
+    margin-right: 13%;
+}
 
 @media (min-width: 0px) and (max-width: 767px) {
 
@@ -5,4 +9,10 @@
         padding-top: 50px;
         text-align: center;
     }
+
+    .my_progresion {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    
 }
