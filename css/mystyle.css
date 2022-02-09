@@ -1,6 +1,10 @@
 
-.portfolio {
+/* .home {
     margin-top: 10%;
+} */
+
+.mywork_text {
+    margin-bottom: 10%;
 }
 
 @media (min-width: 0px) and (max-width: 767px) {
