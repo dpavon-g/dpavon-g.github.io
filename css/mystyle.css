@@ -14,11 +14,11 @@
 
 #about {
     padding-top: 17%;
-    padding-bottom: 10%;
+    padding-bottom: 20%;
 }
 
 #portfolio {
-    padding-top: 17%;
+    padding-top: 5%;
     padding-bottom: 10%;
 }
 
@@ -31,6 +31,11 @@
 
     .my_progress {
         margin-top: 70px;
+    }
+
+    #portfolio {
+        padding-top: 17%;
+        padding-bottom: 10%;
     }
     
 }
